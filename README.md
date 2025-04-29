@@ -12,6 +12,7 @@ A Gadget.dev app that simulates Shopify order . The app receives webhook data, s
 ### Frontend
 - Simple table view displaying all orders
 - Basic styling
+![Dashboard View](./assets/dashboard.png "Orders Dashboard")
 
 ## API Usage
 
@@ -23,11 +24,13 @@ POST [https://assingment4--development.gadget.app/api/orders]
   "totalPrice": 99.99
 }
 ```
+![Dashboard View](./assets/postman.png "Orders Dashboard")
 
 ## Technical Notes
 - Error handling for missing fields
 - Field validation before database storage
 - No actual Shopify or WhatsApp integration (simulation only)
+![Dashboard View](./assets/app.png "Orders Dashboard")
 
 ## Future Enhancements
 - Authentication for webhook endpoint
@@ -37,9 +40,6 @@ POST [https://assingment4--development.gadget.app/api/orders]
 
 Note: Please wait for the table to completely load, it may take a few seconds.
 
-![Dashboard View](./assets/dashboard.png "Orders Dashboard")
-![Dashboard View](./assets/postman.png "Orders Dashboard")
 
-![Dashboard View](./assets/app.png "Orders Dashboard")
 
 
