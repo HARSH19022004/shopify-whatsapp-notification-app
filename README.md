@@ -36,3 +36,10 @@ POST [https://assingment4--development.gadget.app/api/orders]
 - Order statistics dashboard
 
 Note: Please wait for the table to completely load, it may take a few seconds.
+
+![Dashboard View](./assets/dashboard.png "Orders Dashboard")
+![Dashboard View](./assets/postman.png "Orders Dashboard")
+
+![Dashboard View](./assets/app.png "Orders Dashboard")
+
+
